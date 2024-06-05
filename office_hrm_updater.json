@@ -1,7 +1,7 @@
 {
-    "versionCode": "4.4.9",
+    "versionCode": 30,
     "versionName": "4.4.9",
     "contentText": "Please update your app.",
-    "minSupport": "4.4.9",
+    "minSupport": 29,
     "url": "https://play.google.com/store/search?q=office%20hrm&c=apps&hl=en"
 }
